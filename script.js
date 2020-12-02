@@ -113,8 +113,6 @@ function saveGuessHistory(guess) {
 
   
   
-  
-  
   // *CODE GOES BELOW HERE *
 }
 
